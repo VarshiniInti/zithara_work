@@ -1,0 +1,39 @@
+/* App.css */
+
+.search-and-sort {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+ 
+.sort-dropdown-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sort-dropdown {
+  width: 170px;
+  margin-bottom: 10px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://img.freepik.com/premium-photo/soft-cloudy-is-gradient-pastel_6529-1390.jpg?w=996');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #cdeccd;
+}
+
+.search-section {
+  display: flex;
+  align-items: center;
+}
+
+.search-label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
